@@ -1,4 +1,6 @@
-### I am a hobby programmer and data scientist and particularly interested in the intersection of data science and healthcare 👋
+### Data scientist and particularly interested in the intersection of data science and healthcare👋
+
+Expertise in solving real-world business problems. Have extensive experience in building product, data Science and data Analytics in healthtech space
 
 <!--
 **akrishta305/akrishta305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
