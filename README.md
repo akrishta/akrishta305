@@ -1,6 +1,6 @@
 ### Data scientist and particularly interested in the intersection of data science and healthcare👋
 
-Expertise in solving real-world business problems. Have extensive experience in building product, data Science and data Analytics in healthtech space
+Expertise in solving real-world business problems, with a passion for fast-paced environments. Have extensive experience in building product, data Science and data Analytics in healthtech space in Germany, Netherlands and India.
 
 <!--
 **akrishta305/akrishta305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
