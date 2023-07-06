@@ -5,6 +5,7 @@ Expertise in solving real-world business problems, with a passion for fast-paced
 | Name      | Description | Link     |
 | :---        |    :----:   |          ---: |
 | FraudDetection      | Credit Card Fraud Detection as a Classification Problem       | [link](https://github.com/akrishta305/FraudDetection/blob/main/Credit_Card_Fraud_Detection_as_a_Classification_Problem.ipynb)   |
+| TimeSeries  | Deep learning models, MLP, CNN, LSTM, and a hybrid CNN-LSTM model, for Time Series Forecasting | [link](https://github.com/akrishta305/TimeSeries)     |
 | <img width=200/>   | <img width=500/>        | <img width=200/>     |
 
 <!--
