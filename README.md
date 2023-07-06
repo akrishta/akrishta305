@@ -2,9 +2,9 @@
 
 Expertise in solving real-world business problems, with a passion for fast-paced environments. Have extensive experience in building product, data Science and data Analytics in healthtech space in Germany, Netherlands and India.
 
-| Syntax      | Description | Test Text     |
+| Name      | Description | Link     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
+| FraudDetection      | Credit Card Fraud Detection as a Classification Problem       | [link](https://github.com/akrishta305/FraudDetection/blob/main/Credit_Card_Fraud_Detection_as_a_Classification_Problem.ipynb)   |
 | <img width=200/>   | <img width=500/>        | <img width=200/>     |
 
 <!--
