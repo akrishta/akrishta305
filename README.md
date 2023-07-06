@@ -18,7 +18,10 @@ Expertise in solving real-world business problems, with a passion for fast-paced
 |BioDb2016 | Solutions for Rosalind's problems- notebook |[link](https://github.com/akrishta305/BioDb2016)| 
 |AI in medicine | Coursera - AI for medical diagnosis |[link](https://github.com/akrishta305/ai-for-medical-diagnosis)| 
 
-
+##### Publications
+| Name      | Description | Link     |
+| :---        |    :----:   |          ---: |
+|Virtual Cohorts | Part of LifeScienceDataAnalytics repository at Fraunhofer SCAI |[link](https://github.com/LifeScienceDataAnalytics/VirtualCohorts) | 
 
 <!--
 **akrishta305/akrishta305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
