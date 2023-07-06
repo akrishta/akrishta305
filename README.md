@@ -8,6 +8,16 @@ Expertise in solving real-world business problems, with a passion for fast-paced
 | TimeSeries  | Deep learning models, MLP, CNN, LSTM, and a hybrid CNN-LSTM model, for Time Series Forecasting | [link](https://github.com/akrishta305/TimeSeries)     |
 | <img width=200/>   | <img width=500/>        | <img width=200/>     |
 
+
+Course Work
+| Name      | Description | Link     |
+| :---        |    :----:   |          ---: |
+|BioDb2016 | Solutions for Rosalind's problems |[link](https://github.com/akrishta305/BioDb2016-1) | 
+|BioDb2016 | Solutions for Rosalind's problems- notebook |[link](https://github.com/akrishta305/BioDb2016)| 
+|AI in medicine | Coursera - AI for medical diagnosis |[link](https://github.com/akrishta305/ai-for-medical-diagnosis)| 
+
+
+
 <!--
 **akrishta305/akrishta305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
