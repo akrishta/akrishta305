@@ -8,7 +8,7 @@ Expertise in solving real-world business problems, with a passion for fast-paced
 | :---        |    :----:   |          ---: |
 | FraudDetection      | Credit Card Fraud Detection as a Classification Problem       | [link](https://github.com/akrishta305/FraudDetection/blob/main/Credit_Card_Fraud_Detection_as_a_Classification_Problem.ipynb)   |
 | TimeSeries  | Deep learning models, MLP, CNN, LSTM, and a hybrid CNN-LSTM model, for Time Series Forecasting | [link](https://github.com/akrishta305/TimeSeries)     |
-| <img width=200/>   | <img width=500/>        | <img width=200/>     |
+| <img width=200/>   | <img width=400/>        | <img width=200/>     |
 
 
 ##### Course Work
@@ -17,11 +17,13 @@ Expertise in solving real-world business problems, with a passion for fast-paced
 |BioDb2016 | Solutions for Rosalind's problems |[link](https://github.com/akrishta305/BioDb2016-1) | 
 |BioDb2016 | Solutions for Rosalind's problems- notebook |[link](https://github.com/akrishta305/BioDb2016)| 
 |AI in medicine | Coursera - AI for medical diagnosis |[link](https://github.com/akrishta305/ai-for-medical-diagnosis)| 
+| <img width=200/>   | <img width=400/>        | <img width=200/>     |
 
 ##### Publications
 | Name      | Description | Link     |
 | :---        |    :----:   |          ---: |
-|Virtual Cohorts | Part of LifeScienceDataAnalytics repository at Fraunhofer SCAI |[link](https://github.com/LifeScienceDataAnalytics/VirtualCohorts) | 
+|Virtual Cohorts | Part of LifeScienceDataAnalytics repository at Fraunhofer SCAI |[link](https://github.com/LifeScienceDataAnalytics/VirtualCohorts) |
+| <img width=200/>   | <img width=400/>        | <img width=200/>     |
 
 <!--
 **akrishta305/akrishta305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
