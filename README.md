@@ -1,6 +1,8 @@
-### Data scientist and particularly interested in the intersection of data science and healthcare👋
+## Data scientist and particularly interested in the intersection of data science and healthcare👋
 
 Expertise in solving real-world business problems, with a passion for fast-paced environments. Have extensive experience in building product, data Science and data Analytics in healthtech space in Germany, Netherlands and India.
+
+##### Projects
 
 | Name      | Description | Link     |
 | :---        |    :----:   |          ---: |
@@ -9,7 +11,7 @@ Expertise in solving real-world business problems, with a passion for fast-paced
 | <img width=200/>   | <img width=500/>        | <img width=200/>     |
 
 
-Course Work
+##### Course Work
 | Name      | Description | Link     |
 | :---        |    :----:   |          ---: |
 |BioDb2016 | Solutions for Rosalind's problems |[link](https://github.com/akrishta305/BioDb2016-1) | 
