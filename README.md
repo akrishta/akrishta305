@@ -5,7 +5,7 @@ Expertise in solving real-world business problems, with a passion for fast-paced
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| <img width=200/>   | <img width=500/>        | <img width=200/>     |
 
 <!--
 **akrishta305/akrishta305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
