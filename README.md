@@ -2,6 +2,11 @@
 
 Expertise in solving real-world business problems, with a passion for fast-paced environments. Have extensive experience in building product, data Science and data Analytics in healthtech space in Germany, Netherlands and India.
 
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
 <!--
 **akrishta305/akrishta305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
